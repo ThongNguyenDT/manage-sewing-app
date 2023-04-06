@@ -1,0 +1,11 @@
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\bin\Debug\Cau_3.exe.config
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\bin\Debug\Cau_3.exe
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\bin\Debug\Cau_3.pdb
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\QLMaySP.csproj.AssemblyReference.cache
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\QLMaySP.csproj.SuggestedBindingRedirects.cache
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\Cau_3.frmKhachHang.resources
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\Cau_3.Properties.Resources.resources
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\QLMaySP.csproj.GenerateResource.cache
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\QLMaySP.csproj.CoreCompileInputs.cache
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\Cau_3.exe
+C:\Users\A715-42G\Downloads\Cau_3\Cau_3\obj\Debug\Cau_3.pdb
